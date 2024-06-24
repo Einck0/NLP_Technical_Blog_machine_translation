@@ -1,4 +1,4 @@
-#NLP_Technical_Blog_machine_translation
+# NLP_Technical_Blog_machine_translation  
 # 10.12 机器翻译
 
 机器翻译是指将一段文本从一种语言自动翻译到另一种语言。因为一段文本序列在不同语言中的长度不一定相同，所以我们使用机器翻译为例来介绍编码器—解码器和注意力机制的应用。
