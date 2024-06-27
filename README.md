@@ -442,7 +442,7 @@ score('ils sont canadienne .', 'they are canadian .', k=2)
 
 
 ```python
-#填写答案，可根据需要将当前Cell的CellType设置为Markdown或继续添加新的Cell
+使用解码器自身的上一个时间步的输出作为输入，可以提高模型的泛化能力和更符合实际应用场景，但也可能导致训练不稳定和训练速度变慢。
 ```
 
 * 试着使用更大的翻译数据集来训练模型，例如 WMT [2] 和 Tatoeba Project [3]。
